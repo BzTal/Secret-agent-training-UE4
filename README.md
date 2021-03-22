@@ -16,13 +16,13 @@ Level 2 BP: https://blueprintue.com/blueprint/aob8jb0f/
 
 Level 3 BP: https://blueprintue.com/blueprint/kcoga2pa/
 
-Class LaserBeam
+Class LaserBeam:
 
 Class laserBeam BP: https://blueprintue.com/blueprint/20xytabe/
 
 Function member of class BP (“Player laser overlap”): https://blueprintue.com/blueprint/87118x1r/
 
-Class Teleport
+Class Teleport:
 
 Class Teleport BP: https://blueprintue.com/blueprint/uwd8qspa/
 
