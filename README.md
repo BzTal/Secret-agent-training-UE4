@@ -5,7 +5,7 @@ In this project I created a game called "Secret agent training simulator".
 game description: 
 "Join the secret agent training program to become an official agent!  You must successfully complete three missions which will test your agility, intelligence and quick thinking. Be warned, failing a mission will not be accepted and you will need to re-do it in order to pass the program!"
 
-youtube link to game walkthrough: https://www.youtube.com/watch?v=sKR3C96p8r0
+youtube link to game walkthrough: https://youtu.be/sKR3C96p8r0
 
 Main Blueprints links (C++):
 
