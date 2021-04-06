@@ -7,7 +7,7 @@ game description:
 
 youtube link to game walkthrough: https://youtu.be/sKR3C96p8r0
 
-Main Blueprints links (C++):
+# Main Blueprints links (C++):
 
 * Level 1 BP: https://blueprintue.com/blueprint/w6egn3qn/ 
 
